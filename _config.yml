@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://alextugot.github.io
+title: The Great Default
+tagline: Arts, Crafts, but probably more Craps
+description: A personal blog about art, architecture, music, and other mundane things about life
+paginate: 5
